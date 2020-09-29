@@ -1,0 +1,9 @@
+.my-btn {
+    border: 1px solid rgb(114, 166, 196);
+    padding: 8px 4px;
+    font-size: 14px;
+    border-radius: 3px;
+    margin: 4px;
+    cursor: pointer;
+    background-color: rgb(205, 235, 243);
+}

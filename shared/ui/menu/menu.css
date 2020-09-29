@@ -1,0 +1,6 @@
+ul.my-menu{
+    list-style: none;
+}
+ul.my-menu li.current a{
+    color: rgb(43, 169, 207);
+}
